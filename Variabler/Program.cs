@@ -10,6 +10,9 @@ namespace Variabler
     {
         static void Main(string[] args)
         {
+
+            // Test
+
         }
     }
 }
