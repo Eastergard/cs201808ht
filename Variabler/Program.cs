@@ -10,10 +10,12 @@ namespace Variabler
     {
         static void Main(string[] args)
         {
+            int tal = 1;
 
-            // Test
-            // Test 2
+            Console.WriteLine($"tal = {tal}");
 
+
+            Console.ReadKey();
         }
     }
 }
