@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderOpg3", "MetoderOpg3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FejlOpg1", "FejlOpg1\FejlOpg1.csproj", "{D6DF6B2C-52E0-463B-AE13-25D59B7B35F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.csproj", "{60B3B161-79A3-441C-8D53-41ACBB0003EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{D6DF6B2C-52E0-463B-AE13-25D59B7B35F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DF6B2C-52E0-463B-AE13-25D59B7B35F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DF6B2C-52E0-463B-AE13-25D59B7B35F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B3B161-79A3-441C-8D53-41ACBB0003EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B3B161-79A3-441C-8D53-41ACBB0003EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B3B161-79A3-441C-8D53-41ACBB0003EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B3B161-79A3-441C-8D53-41ACBB0003EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

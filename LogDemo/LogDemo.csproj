@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{566B19BF-D13E-414A-A534-F02B0FD1C474}</ProjectGuid>
+    <ProjectGuid>{60B3B161-79A3-441C-8D53-41ACBB0003EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FlowOpg1</RootNamespace>
-    <AssemblyName>FlowOpg1</AssemblyName>
+    <RootNamespace>LogDemo</RootNamespace>
+    <AssemblyName>LogDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
