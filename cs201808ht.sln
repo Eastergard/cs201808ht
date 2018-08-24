@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablerOpg4", "VariablerO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderOpg1", "MetoderOpg1\MetoderOpg1.csproj", "{590BF7F9-2B1C-4377-936C-C987CFB15FEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetoderOpg2", "MetoderOpg2\MetoderOpg2.csproj", "{6741C49A-1AC9-45CF-B725-D64217070085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{590BF7F9-2B1C-4377-936C-C987CFB15FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590BF7F9-2B1C-4377-936C-C987CFB15FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590BF7F9-2B1C-4377-936C-C987CFB15FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6741C49A-1AC9-45CF-B725-D64217070085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6741C49A-1AC9-45CF-B725-D64217070085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6741C49A-1AC9-45CF-B725-D64217070085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6741C49A-1AC9-45CF-B725-D64217070085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
