@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser.Statisk", "Klasser.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber.SimpelEgenskab", "Egenskaber.SimpelEgenskab\Egenskaber.SimpelEgenskab.csproj", "{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber.AutomatiskEgenskab", "Egenskaber.AutomatiskEgenskab\Egenskaber.AutomatiskEgenskab.csproj", "{A3FF6A1F-DD72-40B6-B907-FECDFD7BA607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FF6A1F-DD72-40B6-B907-FECDFD7BA607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FF6A1F-DD72-40B6-B907-FECDFD7BA607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FF6A1F-DD72-40B6-B907-FECDFD7BA607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FF6A1F-DD72-40B6-B907-FECDFD7BA607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
