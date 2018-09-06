@@ -17,6 +17,15 @@ namespace Klasser.Statisk
             int res1 = Beregninger.TrækFra(1, 1);
             Console.WriteLine(res1);
 
+            int res2 = Beregninger.Gang(2, 4);
+            Console.WriteLine(res2);
+
+            float res3 = Beregninger.Divider(12, 0);
+            Console.WriteLine(res3);
+
+            float res4 = Beregninger.Divider(12, 2);
+            Console.WriteLine(res4);
+
 
             // Hold console åben ved debug
             if (System.Diagnostics.Debugger.IsAttached)
@@ -34,6 +43,15 @@ namespace Klasser.Statisk
         public static int LægSammen(int a, int b) => a + b;
 
         public static int TrækFra(int a, int b) => a - b;
+
+        public static int Gang(int a, int b) => a * b;
+
+        public static float Divider(int a, int b)
+        {
+            if (b == 0F)
+                throw new Exception("Nævneren må ikke være nul!");
+            return a / b;
+        }
 
     }
 
