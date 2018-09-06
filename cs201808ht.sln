@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser(Terning)", "Klasser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser.Statisk", "Klasser.Statisk\Klasser.Statisk.csproj", "{B57FAB33-9049-46EE-AEFC-B41FAE8EAC54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber.SimpelEgenskab", "Egenskaber.SimpelEgenskab\Egenskaber.SimpelEgenskab.csproj", "{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B57FAB33-9049-46EE-AEFC-B41FAE8EAC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B57FAB33-9049-46EE-AEFC-B41FAE8EAC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B57FAB33-9049-46EE-AEFC-B41FAE8EAC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFF346F-0CE4-4D4E-A2DD-56904194EAEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
