@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber.GetSomMetoder", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber.Terning", "Egenskaber.Terning\Egenskaber.Terning.csproj", "{DE6DDFBA-0FC0-4C75-8F84-DFE1618E289E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.Simpel", "Arrays.Simpel\Arrays.Simpel.csproj", "{3ADBA125-2C67-4D8E-9855-5496AD90D35C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{DE6DDFBA-0FC0-4C75-8F84-DFE1618E289E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE6DDFBA-0FC0-4C75-8F84-DFE1618E289E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE6DDFBA-0FC0-4C75-8F84-DFE1618E289E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADBA125-2C67-4D8E-9855-5496AD90D35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADBA125-2C67-4D8E-9855-5496AD90D35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADBA125-2C67-4D8E-9855-5496AD90D35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADBA125-2C67-4D8E-9855-5496AD90D35C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
