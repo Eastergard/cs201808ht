@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser(SimpelKlasse)", "Klasser(SimpelKlasse)\Klasser(SimpelKlasse).csproj", "{19A08596-BE6F-4E8D-BD7B-C96032356219}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser(Terning)", "Klasser(Terning)\Klasser(Terning).csproj", "{4280AE35-3FE5-4D5B-93DE-D0C9A583213A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{19A08596-BE6F-4E8D-BD7B-C96032356219}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19A08596-BE6F-4E8D-BD7B-C96032356219}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19A08596-BE6F-4E8D-BD7B-C96032356219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4280AE35-3FE5-4D5B-93DE-D0C9A583213A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4280AE35-3FE5-4D5B-93DE-D0C9A583213A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4280AE35-3FE5-4D5B-93DE-D0C9A583213A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4280AE35-3FE5-4D5B-93DE-D0C9A583213A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
