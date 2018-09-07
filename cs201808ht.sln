@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.Simpel", "Arrays.Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays.Split", "Arrays.Split\Arrays.Split.csproj", "{18E12B21-E3F8-433D-9854-9B18561622AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samlinger.Simpel", "Samlinger.Simpel\Samlinger.Simpel.csproj", "{5D99F1BC-3146-47A9-8129-33CB993D348A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{18E12B21-E3F8-433D-9854-9B18561622AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18E12B21-E3F8-433D-9854-9B18561622AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18E12B21-E3F8-433D-9854-9B18561622AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D99F1BC-3146-47A9-8129-33CB993D348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D99F1BC-3146-47A9-8129-33CB993D348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D99F1BC-3146-47A9-8129-33CB993D348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D99F1BC-3146-47A9-8129-33CB993D348A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
