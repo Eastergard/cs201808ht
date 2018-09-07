@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arv.AbstraktKlasse", "Arv.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.Comparer", "Interfaces.Comparer\Interfaces.Comparer.csproj", "{795AE848-03D9-4FAF-B674-40111C595D94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.EgetInterface", "Interfaces.EgetInterface\Interfaces.EgetInterface.csproj", "{643BDA5B-9159-42FA-946C-1779C1D7CCBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{795AE848-03D9-4FAF-B674-40111C595D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{795AE848-03D9-4FAF-B674-40111C595D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{795AE848-03D9-4FAF-B674-40111C595D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643BDA5B-9159-42FA-946C-1779C1D7CCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643BDA5B-9159-42FA-946C-1779C1D7CCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643BDA5B-9159-42FA-946C-1779C1D7CCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643BDA5B-9159-42FA-946C-1779C1D7CCBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
