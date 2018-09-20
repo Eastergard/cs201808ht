@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces.EgetInterface", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.Simpel", "Delegates.Simpel\Delegates.Simpel.csproj", "{D8CE928B-96AB-4AF6-B007-5D292CF7C493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.MedFunc", "Delegates.MedFunc\Delegates.MedFunc.csproj", "{2187EF93-ADB7-4368-9A26-0081609965AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{D8CE928B-96AB-4AF6-B007-5D292CF7C493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8CE928B-96AB-4AF6-B007-5D292CF7C493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8CE928B-96AB-4AF6-B007-5D292CF7C493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2187EF93-ADB7-4368-9A26-0081609965AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2187EF93-ADB7-4368-9A26-0081609965AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2187EF93-ADB7-4368-9A26-0081609965AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2187EF93-ADB7-4368-9A26-0081609965AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
