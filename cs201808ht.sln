@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events.FileWatcher", "Event
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events.KreditMax", "Events.KreditMax\Events.KreditMax.csproj", "{C9766781-1002-43B3-96FE-D510C3717797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oprydning.Using", "Oprydning.Using\Oprydning.Using.csproj", "{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{C9766781-1002-43B3-96FE-D510C3717797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9766781-1002-43B3-96FE-D510C3717797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9766781-1002-43B3-96FE-D510C3717797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
