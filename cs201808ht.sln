@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.MedFunc", "Delega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.Lambda", "Delegates.Lambda\Delegates.Lambda.csproj", "{03065434-6B2D-4256-84ED-205229AB07CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.Log", "Delegates.Log\Delegates.Log.csproj", "{7B20624B-B904-4F7D-B4BF-A242BFC6B094}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{03065434-6B2D-4256-84ED-205229AB07CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03065434-6B2D-4256-84ED-205229AB07CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03065434-6B2D-4256-84ED-205229AB07CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B20624B-B904-4F7D-B4BF-A242BFC6B094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B20624B-B904-4F7D-B4BF-A242BFC6B094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B20624B-B904-4F7D-B4BF-A242BFC6B094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B20624B-B904-4F7D-B4BF-A242BFC6B094}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
