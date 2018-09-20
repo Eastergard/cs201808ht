@@ -43,7 +43,7 @@ namespace Delegates.Simpel
             return c(a, b);  
         }
 
-        public static Beregn FindTilfældigFunktion()
+        public static Func<int,int, int> FindTilfældigFunktion()
         {
             switch (DateTime.Now.Millisecond%4)
             {
