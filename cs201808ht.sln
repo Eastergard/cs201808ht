@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymeTyper", "AnonymeType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.Persons", "LINQ.Persons\LINQ.Persons.csproj", "{FF09B3AC-AA91-48FC-9887-41D39A987542}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "io.FileDirectory", "io.FileDirectory\io.FileDirectory.csproj", "{95285788-7400-4639-BF86-2A7F7F10710F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{FF09B3AC-AA91-48FC-9887-41D39A987542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF09B3AC-AA91-48FC-9887-41D39A987542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF09B3AC-AA91-48FC-9887-41D39A987542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95285788-7400-4639-BF86-2A7F7F10710F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95285788-7400-4639-BF86-2A7F7F10710F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95285788-7400-4639-BF86-2A7F7F10710F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95285788-7400-4639-BF86-2A7F7F10710F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
