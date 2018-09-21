@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events.KreditMax", "Events.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oprydning.Using", "Oprydning.Using\Oprydning.Using.csproj", "{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymeTyper", "AnonymeTyper\AnonymeTyper.csproj", "{F569C2C7-99B7-4373-8E53-B47BD26BF2F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4034B8-0AB9-4EDA-ABDF-23FF6EAF8514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F569C2C7-99B7-4373-8E53-B47BD26BF2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F569C2C7-99B7-4373-8E53-B47BD26BF2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F569C2C7-99B7-4373-8E53-B47BD26BF2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F569C2C7-99B7-4373-8E53-B47BD26BF2F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
